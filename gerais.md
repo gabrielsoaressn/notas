@@ -1,18 +1,18 @@
 #Agenda
 ##Cadeiras
-* **Computação gráfica**
+* **Computação Gráfica SU/QA**
     começa dia 28
-* **Circuitos Lógicos II**
+* **Circuitos Lógicos II SU/QA**
     começa dia 28
-* **Engenharia de Software**
-    aula dia 21/02 (aula provavelmente será completamente remota)
+* **Engenharia de Software SU/QA**
+    Já houve aula
     **para casa**
     ver o vídeo do pro explicando o primeiro capítulo do livro e anotar no arquivo aula01
-* **Eletricidade II**
+* **Eletricidade II T/QI**
     o professor ainda não postou nada no sigaa
-* **Calculo Numérico** 
-    o professor ainda não postou nada no sigaa
-* **Sistemas Operacionais** 
-    22/02 <meet.google.com/ujq-ukvs-hxp>
-* **Análise e Projeto de Algorítmos**
+* **Calculo Numérico - T/QI** 
+    Aula de 10h (22/02) <meet.google.com/qwz-fsxa-bsv>
+* **Sistemas Operacionais T/QI** 
+    Aula de 14h (22/02) <meet.google.com/ujq-ukvs-hxp>
+* **Análise e Projeto de AlgorítmosT/QI**
     começa 28/02 (participa de alguma coisa da semana da computação pra conseguir o certificado)
