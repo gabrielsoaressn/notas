@@ -1,33 +1,37 @@
 # AULA 01
 ## A importância:
-        Inicialmente, é importante que diga-se que a maioria das pessoas que se formam em engenharia de computação, ciência ou até em ti acabam trabalhando como engenheiros de software
+        Inicialmente, é importante que diga-se que a maioria das pessoas que se formam em engenharia de computação, ciência ou até em ti acabam trabalhando como engenheiros de software(full-stack, front-end, etc). Muito menos, em Ciência de Dados, Infraestrutura ou suporte.
 
 ## A história:
-        O termo engenharia de software foi utilizado em 1968 numa conferência da OTAN na Alemanha
+        O termo engenharia de software foi utilizado em 1968 numa conferência da OTAN na Alemanha.
 
 ## O que é:
-        É a área da computação destinada a investigaros desafios e propor soluções que permitam desenvolver softwares de forma produtiva e com qualidade
+        É a área da computação destinada a investigar os desafios e propor soluções que permitam desenvolver softwares de forma produtiva e com qualidade.
 
 ## Tópicos:
         ### 1. Engenharia de Requisitos
                 Requisito: É aquilo que o sistema deve fazer para atender as demandas do cliente com qualidade.
                 Portanto, a Engenharia de Requisitos é a área em quem os requisitos de um sistema são especificados, analisados, documentados e validados
                 * Requsitos Funcionais
-                        são aqueles que indicam o que o sistema deve , capacidade, tolerância a falhas, segurança, etc);
+                        são aqueles que indicam o que o sistema deve fazer (capacidade, tolerância a falhas, segurança, etc);
                 * Requsitos Não Funcionais
-                        são aqueles que indicam como o sistema deve funcionar(desempenho, disponibilidadeintefaces.
+                        são aqueles que indicam como o sistema deve funcionar(desempenho, disponibilidade intefaces, etc).
         ### 2. Projeto
                 Projeto é onde se define os principais componentes de um sistema e de suas fazer
   
         ### 3. Construção
                 Consiste na implementação do sistema: algorítmos, estrutura de dados, IDE, debuggers, libs, frameworks e padrão de nome.
+
         ### 4.  Teste
                 Verificam se um programa apresenta um resultado esperado, ao ser executado com casos dee teste.
-                Podem ser manuais ou atomatizados(será estudado)"Testes de softwares mostram a presença de bugs, mas não a sua ausência." Dijkstra
+                Podem ser manuais ou atomatizados(será estudado).
+                "Testes de softwares mostram a presença de bugs, mas não a sua ausência." Dijkstra
+                * set-up
+                        É o que se precisa para chegar no ponto a ser testado. 
                 * defeito
-                        É um deslize do programador na codificação do programa       
+                        É um deslize do programador na codificação do programa.       
                 * falha
-                        Ocorre quando um programa com defeito é executado
+                        Ocorre quando um programa com defeito é executado.
                 * bug
                         Informal: mais próximo de defeito, mas pode ser falha também.
                 * Verificação
@@ -41,12 +45,13 @@
                   * Preventiva
                         Quando você vai procurar bugs que ainda não foram descobertos.
                   * Adaptativa
-                        Quando é necessário adaptar o ambiente a uma nova realidade, mudança de linguagem.
+                        Quando é necessário adaptar o ambiente a uma nova realidade, mudança de linguagem, quando surge uma nova lei sobre nota fiscal e o seu programa tem que se adaptar.
                   * Refactoring
                         Tem como objetivo melhorar a qualidade do código. incrementar a manutenibilidade do sistema.
                         (Renomear variável, extrair função, etc)
-                * Evolutiva
+                  * Evolutiva
                         Advento de novas tecnologias, adição de funcionalidades.
+
         ### 6. Gerência de configuração
                 Todo software é desenvolvido usando um sistema de controle de versões que atua como a fonte da verdade sobre o código e permite recuperar versões antigas
         
@@ -62,10 +67,12 @@
                 #### Dois principais modelos
                 * Waterfall("cascata")
                 * Ágil
+              
         ### 9.  Modelos
                 É uma descrição em alto nível que facilite a compreensão do software para os devs, documentar o projeto e facilitar a manutenção. UML é uma linguagem gráfica muito utilizagem para modelagem de softwares
 
         ### 10.  Qualidade
+                Está estritamente ligada aos testes
                 * Externa
                         Só utilizando o programa já da para saber: Correção, roubustez, extensibilidade, reusabilidade, eficiência, portabilidade, facilidade, etc.
                 * Interna
