@@ -1,24 +1,25 @@
 # Agenda
 ## Cadeiras
-* **Computação Gráfica SU/QA**
-    Aula de 8h(28/02)
-* **Circuitos Lógicos II SU/QA**
-    Aula de 14h(28/02)
-* **Engenharia de Software SU/QA**
-    Aula de 16h(já começou)
-    **para casa**
-    ler o slide da aula 02.
-* **Eletricidade II T/QI**
-    Aula de 8h (01/03)
-* **Calculo Numérico - T/QI** 
-    Aula de 10h (22/02) <meet.google.com/qwz-fsxa-bsv>
-* **Sistemas Operacionais T/QI** 
-    Aula de 14h (22/02) <meet.google.com/ujq-ukvs-hxp>
-    **para casa**
-    reler as anotações.
-* **Análise e Projeto de AlgorítmosT/QI**
-    Aula de 16 h (01/03) (participa de alguma coisa da semana da computação pra conseguir o certificado)
-### Bootcamp GFT Java
+### Computação Gráfica SU/QA (8h)
+### Circuitos Lógicos II SU/QA (14h)
+
+### Engenharia de Software SU/QA (16h)
+#### para casa
+-   ler o slide da aula 03, no google drive e fazer anotações.
+-   fazer o exercício em grupo.
+### Eletricidade II T/QI (8h)
+
+### Calculo Numérico - T/QI (10h)
+<meet.google.com/qwz-fsxa-bsv>
+
+### Sistemas Operacionais T/QI(14h) 
+<meet.google.com/ujq-ukvs-hxp>
+#### para casa
+reler as anotações.
+
+### Análise e Projeto de Algorítmos T/QI(16h)
+
+## Bootcamp GFT Java
 #### Lembretes:
 * Uma variável double pode receber uma int e uma int só recebe uma double por meio de casting.
 * Herença múltipla é quando uma classe herda de várias. Isso não acontece em java.
@@ -29,7 +30,8 @@ Animal cachorro = (Cachorro)new Animal();     //down
 ```
 *   Polimorfismo tem que apresentar comportamento diferente e sobrescrita pode mostrar, mas não é obrigatório
 *   Dependência é um método que utiliza um objeto como parâmetro.
-*   Classe abstrata em java é chamada interface e tem uma implementação prória. veja:
+*   Inteface em java é algo como uma classe que só tem a assinatura dos métodos que serão implementados nas classes que apresentarem o "implements" sobre a interface.
+  
  ```
 interface MinhaInterface
 {
@@ -41,3 +43,4 @@ class MinhaClasse implements Minhainterface
     ...
 }
 ```
+*   Métodos estáticos são criados para que não precise-se utilizar objetos para utilizar aqueles métodos.
