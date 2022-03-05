@@ -11,7 +11,8 @@
 
 ### Calculo Numérico - T/QI (10h)
 <meet.google.com/qwz-fsxa-bsv>
-
+#### para casa
+ver playlist calculo numérico(aprender python).
 ### Sistemas Operacionais T/QI(14h) 
 <meet.google.com/ujq-ukvs-hxp>
 #### para casa

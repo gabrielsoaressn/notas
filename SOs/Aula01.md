@@ -2,9 +2,9 @@
 ## O que é?
     É o responsável por fazer requisições das aplicações do usuário para o hardware.
 ## Objetivo do SO
-    Seu objetivo é facilitar o caminho para o usuário utilizar sistemas computacionais e utilizar o hardware de forma mais eficiente
+    Seu objetivo é facilitar o caminho para o usuário utilizar sistemas computacionais e utilizar o hardware de forma mais eficiente.
 ## Por que estudar?
-*     Para exercitar uma infinidade de conceitos estudados na comptação
+*     Para exercitar uma infinidade de conceitos estudados na computação
 *     Porque entendendo um SO, é possível compreender as soluções que serão implementadas por sobre ele.
 
 ###     1. Gerenciamento de recursos
@@ -20,7 +20,7 @@
 *   Quando um controlador precisa passar alguma informação, ele envia uma mensagem para a CPU para sinalizar, por meio de uma interrupção, que está perdendo a informação do buffer , para que a CPU possa fazer uso daquela memória.
 *  Os SOs funcionam baseados em interrupções
 *  Quando ocorre uma interrupção, o SO precisa saber onde parou e desabilitar novas interrupções enquanto a corrente não termina
-    OBS: Exceção ou Trap é o nome dado a interrupçção via software
+    OBS: Exceção ou Trap é o nome dado a interrupção via software
 #### Tratamento de Interrupções
 *   O SO preserva o estado da CPU e armazena seus contadores e registradores.
 *   Registra o tipo de interrupção que ocorreu
