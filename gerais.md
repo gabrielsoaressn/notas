@@ -1,23 +1,21 @@
 # Agenda
 ## Cadeiras
 ### Computação Gráfica SU/QA (8h)
+-   Assistir novamente e fazer anotações
 ### Circuitos Lógicos II SU/QA (14h)
-
+-   Exercício de revisão
 ### Engenharia de Software SU/QA (16h)
-#### para casa
--   ler o slide da aula 03, no google drive e fazer anotações.
--   fazer o exercício em grupo.
+-   Ver o grupo
 ### Eletricidade II T/QI (8h)
-
+-   Tentar fazer exercícios
+-   Fazer anotações
 ### Calculo Numérico - T/QI (10h)
 <meet.google.com/qwz-fsxa-bsv>
 #### para casa
 ver playlist calculo numérico(aprender python).
 ### Sistemas Operacionais T/QI(14h) 
+-   Assistir vídeo e fazer anotações.
 <meet.google.com/ujq-ukvs-hxp>
-#### para casa
-reler as anotações.
-
 ### Análise e Projeto de Algorítmos T/QI(16h)
 
 ## Bootcamp GFT Java
@@ -45,3 +43,4 @@ class MinhaClasse implements Minhainterface
 }
 ```
 *   Métodos estáticos são criados para que não precise-se utilizar objetos para utilizar aqueles métodos.
+*   
