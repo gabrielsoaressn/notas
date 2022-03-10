@@ -10,7 +10,7 @@ A CPU é notificada sobre as alterações no esado do controlador de DMA e o DMA
 ### Entendendo
 * A maioria dos sistemas utiliza um único processador de propósito geral(de PDAs a _mainframes_)
   * Alguns sistemas possuem processador de propósito específico
-*   Multiprocessadores tem aummentado em importância e uso:
+*   Multiprocessadores tem aumentado em importância e uso:
     *   Também conhecidos como sistemas paralelos ou sistemas de alto acoplamento;
     *   Vantagens:
         1.  Maior vazão(throughput)
