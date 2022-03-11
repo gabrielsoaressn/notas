@@ -34,4 +34,12 @@ X~0~ | X~1~ | Y~0~ | Y~1~|  f~1~ | f~2~|f~3~
 1|1|0|1|0|0|1
 1|1|1|0|0|0|1
 1|1|1|1|0|1|0
+![Captura de tela de 2022-03-11 10-31-56](https://user-images.githubusercontent.com/64909008/157947228-2f08c625-8454-438b-a74a-8c56d5654e3c.png)
 
+
+## 4.
+
+![Captura de tela de 2022-03-11 10-37-51](https://user-images.githubusercontent.com/64909008/157946938-13678487-cf7a-4f9c-a9ba-b32c589af62f.png)
+
+## 5.
+![Captura de tela de 2022-03-11 16-24-01](https://user-images.githubusercontent.com/64909008/157947233-f84abda9-a404-4147-bc97-3984ad0fd2a9.png)
