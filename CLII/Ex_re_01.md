@@ -16,6 +16,7 @@ X~2~ | X~1~ | X~0~ | S
 -   m~0~, m~2~,m~4~ e m~6~
 -   Sim, S = !X~0~
 ## 3.
+
 X~0~ | X~1~ | Y~0~ | Y~1~|  f~1~ | f~2~|f~3~
 -- | -- | -- | -- | -- | -- | --
 0|0|0|0|0|1|0
@@ -35,7 +36,8 @@ X~0~ | X~1~ | Y~0~ | Y~1~|  f~1~ | f~2~|f~3~
 1|1|1|0|0|0|1
 1|1|1|1|0|1|0
 
-- ![Captura de tela de 2022-03-11 10-31-56](https://user-images.githubusercontent.com/64909008/157947228-2f08c625-8454-438b-a74a-8c56d5654e3c.png)
+
+![Captura de tela de 2022-03-11 10-31-56](https://user-images.githubusercontent.com/64909008/157947228-2f08c625-8454-438b-a74a-8c56d5654e3c.png)
 
 
 ## 4.
